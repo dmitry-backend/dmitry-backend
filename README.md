@@ -28,8 +28,6 @@ I maintain several backend-focused projects that reflect different learning stag
 - **[Testing Practice](https://github.com/dmitry-backend/async-testing-practice)**: focused repository dedicated to async unit and integration testing patterns.  
 - **[First Async Project](https://github.com/dmitry-backend/blog-async-api)**: early CRUD API built to master async SQLAlchemy and backend fundamentals.
 
-👉 See pinned repositories below for details.
-
 ## 🧩 Background Strength
 Before software development, I spent **16 years in psychology and coaching**.  
 This translates into:
