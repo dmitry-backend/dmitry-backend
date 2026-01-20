@@ -1,6 +1,7 @@
 # Hi, I’m Dmytro 👋
 Junior Backend Developer focused on **Python async backend development**.  
-I build real-world backend projects using modern async tools, with strong attention to correctness, structure, and reliability.
+I build real-world backend projects using modern async tools.
+I have solid backend fundamentals, quick to learn new technologies, and motivated to handle tasks as independently as possible, with minimal guidance from the team lead.
 
 ## 🧠 What I Focus On
 - **Constant and effective learning** to improve backend skills as fast as possible
