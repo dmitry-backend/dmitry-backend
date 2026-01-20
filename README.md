@@ -24,9 +24,9 @@ I have solid backend fundamentals, quick to learn new technologies, and motivate
 ## 🚀 Projects Overview
 I maintain several backend-focused projects that reflect different learning stages and goals:
 
-- **Main Project:** a full-featured async backend demonstrating end-to-end backend development (auth, caching, background tasks, testing).
-- **Testing Practice:** focused repository dedicated to async unit and integration testing patterns.
-- **First Async Project:** early CRUD API built to master async SQLAlchemy and backend fundamentals.
+- **[Main Project](https://github.com/dmitry-backend/async-blog-fullstack-backend-api)**: a full-featured async backend demonstrating end-to-end backend development (auth, caching, background tasks, testing).  
+- **[Testing Practice](https://github.com/dmitry-backend/async-testing-practice)**: focused repository dedicated to async unit and integration testing patterns.  
+- **[First Async Project](https://github.com/dmitry-backend/blog-async-api)**: early CRUD API built to master async SQLAlchemy and backend fundamentals.
 
 👉 See pinned repositories below for details.
 
