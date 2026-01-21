@@ -32,7 +32,7 @@ I maintain several backend-focused projects that reflect different learning stag
 Before software development, I spent **16 years in psychology and coaching**, which helped me develop:
 
 - Strong communication and problem-solving skills
-- Reliability in team environments
+- Reliability in team environments and more..
 
 ## 📫 Contact
 - GitHub: https://github.com/dmitry-backend  
