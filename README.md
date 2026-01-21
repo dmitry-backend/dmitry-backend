@@ -31,7 +31,7 @@ I maintain several backend-focused projects that reflect different learning stag
 ## 🧩 Soft Skills
 Before software development, I spent **16 years in psychology and coaching**, which helped me develop:
 
-- Clear communication and collaboration skills
+- Strong communication and problem-solving skills
 - Reliability in team environments
 
 ## 📫 Contact
