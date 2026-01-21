@@ -28,11 +28,11 @@ I maintain several backend-focused projects that reflect different learning stag
 - **[Testing Practice](https://github.com/dmitry-backend/async-testing-practice)**: focused repository dedicated to async unit and integration testing patterns.  
 - **[First Async Project](https://github.com/dmitry-backend/blog-async-api)**: early CRUD API built to master async SQLAlchemy and backend fundamentals.
 
-## 🧩 Background Strength
-Before software development, I spent **16 years in psychology and coaching**.  
-This translates into:
-- clear communication and collaboration
-- reliability in team environments
+## 🧩 Soft Skills
+Before software development, I spent **16 years in psychology and coaching**, which helped me develop:
+
+- Clear communication and collaboration skills
+- Reliability in team environments
 
 ## 📫 Contact
 - GitHub: https://github.com/dmitry-backend  
