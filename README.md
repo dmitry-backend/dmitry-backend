@@ -3,13 +3,8 @@ Junior Backend Developer focused on **Python async backend development**.
 I build real-world backend projects using modern async tools.
 I have solid backend fundamentals, quick to learn new technologies, and motivated to handle tasks as independently as possible, with minimal guidance from the team lead.
 
-## 🧠 What I Focus On
-- **Constant and effective learning** to improve backend skills as fast as possible
-- Designing **clean, async REST APIs**
-- Working with **PostgreSQL** using async SQLAlchemy
-- Building **authentication, caching, background tasks**
-- Writing **unit and integration tests** to ensure backend reliability
-- Structuring projects using **real-world backend architecture principles**
+## 🧭 Current Direction
+Expanding into frontend (**HTML, CSS, JavaScript, React**) to transition toward a Junior Full-Stack Developer role.
 
 ## 🛠️ Tech Stack
 - **Language:** Python  
