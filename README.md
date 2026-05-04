@@ -17,7 +17,7 @@ Self-taught Junior Full-Stack Developer with 12+ months of daily learning. Start
 ## Featured Project
 
 ### Async Full-Stack Blogging Platform
-Live Demo: [I'll add link here soon]  
+Live Demo: [I'll add link here soon]<br>
 GitHub: https://github.com/dmitry-backend/async-blog-platform
 
 **Backend (FastAPI, PostgreSQL)**
@@ -35,12 +35,12 @@ GitHub: https://github.com/dmitry-backend/async-blog-platform
 - Managed UI state with React hooks and loading/error handling
 
 ## Experience
-**Freelance Web Developer (Wix / Velo)**
+**Freelance Web Developer (Wix / Velo)**<br>
 **2025 — Present**
 
 * Built and customized websites using JavaScript (Velo), including CMS-driven pages, payment integrations, and full project delivery from design to deployment.
 
-**Weight Loss & Teen Parenting Coach (Self-employed)**
+**Weight Loss & Teen Parenting Coach (Self-employed)**<br>
 **2020 — Present**
 
 * 5+ years client-facing work — breaking down complex problems, communicating clearly, and delivering practical solutions.
