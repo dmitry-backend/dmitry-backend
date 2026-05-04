@@ -9,9 +9,9 @@ Email: [dmitry.btf@gmail.com](mailto:dmitry.btf@gmail.com)<br>
 Self-taught Junior Full-Stack Developer with 12+ months of daily learning. Started from zero, built and deployed a real-world async full-stack blogging platform using FastAPI, React, PostgreSQL, Celery and Redis. Focused on clean code, prioritizing tasks and learning new technologies fast.
 
 ## Tech Stack
-**Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, python-jose (JWT), passlib (Argon2), Celery, Redis, Alembic, pytest
-**Frontend:** HTML, CSS, JavaScript, React
-**Core concepts:** OOP, async/await, REST APIs, React Router, Context API, API integration (fetch)
+**Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, python-jose (JWT), passlib (Argon2), Celery, Redis, Alembic, pytest<br>
+**Frontend:** HTML, CSS, JavaScript, React<br>
+**Core concepts:** OOP, async/await, REST APIs, React Router, Context API, API integration (fetch)<br>
 **Tools:** Git/GitHub, Docker, Node.js (runtime/tooling), Vite
 
 ## Featured Project
