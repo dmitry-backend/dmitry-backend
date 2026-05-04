@@ -1,36 +1,46 @@
-# Hi, I’m Dmytro 👋
-Junior Backend Developer focused on **Python async backend development**.  
-I build real-world backend projects using modern async tools.
-I have solid backend fundamentals, quick to learn new technologies, and motivated to handle tasks as independently as possible, with minimal guidance from the team lead.
+# Hi, I'm Dmitry
+Junior Full-Stack Developer (Python, FastAPI, SQLAlchemy, React)
 
-## 🧭 Current Direction
-Expanding into frontend (**HTML, CSS, JavaScript, React**) to transition toward a Junior Full-Stack Developer role.
+Galati, Romania
+Email: [dmitry.btf@gmail.com](mailto:dmitry.btf@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dmytro-chikhonatskykh-025542373/)
 
-## 🛠️ Tech Stack
-- **Language:** Python  
-- **Backend:** FastAPI, Async SQLAlchemy  
-- **Databases:** PostgreSQL (SQL)  
-- **Caching & Tasks:** Redis, Celery  
-- **Security:** JWT, Argon2, bcrypt  
-- **Testing:** pytest, HTTPX, async testing  
-- **Migrations:** Alembic  
-- **Tools:** Git, Docker  
+## About Me
+Self-taught Junior Full-Stack Developer with 12+ months of daily learning. Started from zero, built and deployed a real-world async full-stack blogging platform using FastAPI, React, PostgreSQL, Celery and Redis. Focused on clean code, prioritizing tasks and learning new technologies fast.
 
-## 🚀 Projects Overview
-I maintain several backend-focused projects that reflect different learning stages and goals:
+## Tech Stack
+**Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, python-jose (JWT), passlib (Argon2), Celery, Redis, Alembic, pytest
+**Frontend:** HTML, CSS, JavaScript, React
+**Core concepts:** OOP, async/await, REST APIs, React Router, Context API, API integration (fetch)
+**Tools:** Git/GitHub, Docker, Node.js (runtime/tooling), Vite
 
-- **[Main Project](https://github.com/dmitry-backend/async-blog-fullstack-backend-api)**: a full-featured async backend demonstrating end-to-end backend development (auth, caching, background tasks, testing).  
-- **[Testing Practice](https://github.com/dmitry-backend/async-testing-practice)**: focused repository dedicated to async unit and integration testing patterns.  
-- **[First Async Project](https://github.com/dmitry-backend/blog-async-api)**: early CRUD API built to master async SQLAlchemy and backend fundamentals.
+## Featured Project
 
-## 🧩 Soft Skills
-Before software development, I spent **16 years in psychology and coaching**, which helped me develop:
+### Async Full-Stack Blogging Platform
+Live Demo: [I'll add link here soon]  
+GitHub: https://github.com/dmitry-backend/async-blog-platform
 
-- Strong communication and problem-solving skills
-- Reliability in team environments and more..
+**Backend (FastAPI, PostgreSQL)**
+- Built async REST API with FastAPI and PostgreSQL
+- Implemented JWT authentication with password hashing
+- Used SQLAlchemy + Alembic for database models and migrations
+- Added background tasks with Celery and Redis caching
+- Wrote tests for core backend functionality (pytest)
+- Implemented centralized logging system (console + rotating file logs, multiple log levels)
 
-## 📫 Contact
-- GitHub: https://github.com/dmitry-backend  
-- Email: dmitry.btf@gmail.com  
+**Frontend (React)**
+- Built SPA with React Router and protected routes
+- Implemented authentication state using Context API
+- Connected frontend to backend API using fetch
+- Managed UI state with React hooks and loading/error handling
 
-*Always learning. Focused on becoming a strong backend engineer by building solid fundamentals and practicing on real projects.*
+## Experience
+**Freelance Web Developer (Wix / Velo)**
+**2025 — Present**
+
+* Built and customized websites using JavaScript (Velo), including CMS-driven pages, payment integrations, and full project delivery from design to deployment.
+
+**Weight Loss & Teen Parenting Coach (Self-employed)**
+**2020 — Present**
+
+* 5+ years client-facing work — breaking down complex problems, communicating clearly, and delivering practical solutions.
