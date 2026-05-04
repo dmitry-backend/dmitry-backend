@@ -1,8 +1,8 @@
 # Hi, I'm Dmitry
 Junior Full-Stack Developer (Python, FastAPI, SQLAlchemy, React)
 
-Galati, Romania
-Email: [dmitry.btf@gmail.com](mailto:dmitry.btf@gmail.com)
+Galati, Romania<br>
+Email: [dmitry.btf@gmail.com](mailto:dmitry.btf@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/dmytro-chikhonatskykh-025542373/)
 
 ## About Me
