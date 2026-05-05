@@ -17,7 +17,7 @@ Self-taught Junior Full-Stack Developer with 12+ months of daily learning. Start
 ## Featured Project
 
 ### Async Full-Stack Blogging Platform
-Live Demo: [I'll add link here soon]<br>
+Live Demo: https://async-blog-platform.onrender.com/<br>
 GitHub: https://github.com/dmitry-backend/async-blog-platform
 
 **Backend (FastAPI, PostgreSQL)**
