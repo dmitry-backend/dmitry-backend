@@ -6,7 +6,7 @@ Email: [dmitry.btf@gmail.com](mailto:dmitry.btf@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/dmytro-chikhonatskykh-025542373/)
 
 ## About Me
-Self-taught Junior Full-Stack Developer with 12+ months of daily learning. Started from zero, built and deployed a real-world async full-stack blogging platform using FastAPI, React, PostgreSQL, Celery and Redis. Focused on clean code, prioritizing tasks and learning new technologies fast.
+Built and deployed a real-world async full-stack blogging platform using FastAPI, React, PostgreSQL, Celery and Redis. Self-taught Junior Full-Stack Developer with 12+ months of daily learning, focused on clean code, task prioritization and fast learning.
 
 ## Tech Stack
 **Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, python-jose (JWT), passlib (Argon2), Celery, Redis, Alembic, pytest<br>
